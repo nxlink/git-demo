@@ -3,15 +3,8 @@
 This is the first file in this repo
 
 
-## Ipsum Below
-
-adkljasldkjaslkdj
-alksdjlaskjdalksjd
-lkajdlksajdlkasjd
-klajsdlkasjdalksjd
+## website contents
+index.html
 
 
 
-adlk;asdlk;asd;lk
-;lakd;aslkda;slkd
-;lakd;alskdasd
